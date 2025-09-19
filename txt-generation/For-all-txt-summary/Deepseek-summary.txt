@@ -1,0 +1,41 @@
+ADI:
+You are a professional medical editor. The following is a histopathological description of adipose tissue (ADI) within the immune microenvironment of gastric cancer. 
+Please generate a highly condensed professional summary (within 3–5 sentences), highlighting features such as adipocyte atrophy, lipolysis, immune cell infiltration (e.g., macrophages, lymphocytes), or fibrosis. 
+Maintain precision, avoid unnecessary elaboration, and ensure the summary remains academically and medically accurate.
+
+DEB:
+You are a professional medical editor. The following is a histopathological description of debris (DEB) within the immune microenvironment of gastric cancer. 
+Please generate a highly condensed professional summary (within 3–5 sentences), referring to necrotic, mucinous, eosinophilic, or apoptotic debris when appropriate, and emphasizing its diagnostic implications. 
+Ensure the summary is medically accurate and presented in a formal academic tone.
+
+LYM:
+You are a professional medical editor. The following is a histopathological description of lymphocyte aggregates (LYM) within the immune microenvironment of gastric cancer. 
+Please generate a highly condensed professional summary (within 3–5 sentences), emphasizing the density, spatial distribution, and immune activity of lymphocytic infiltrates (e.g., CD8+ T cells, tertiary lymphoid structures). 
+Ensure clarity, accuracy, and academic tone throughout the summary.
+
+MUC:
+You are a professional medical editor. The following is a histopathological description of mucus (MUC) within the immune microenvironment of gastric cancer. 
+Please generate a highly condensed professional summary (within 3–5 sentences), focusing on mucin presence, distribution, and its pathological significance in glandular differentiation or mucinous carcinoma components. 
+Preserve medical accuracy and maintain a concise academic tone.
+
+MUS:
+You are a professional medical editor. The following is a histopathological description of muscle tissue (MUS) within the immune microenvironment of gastric cancer. 
+Please generate a highly condensed professional summary (within 3–5 sentences), referencing smooth muscle integrity, invasion patterns, or desmoplastic replacement where relevant. 
+Keep the summary precise, medically rigorous, and academic in tone.
+
+NOR:
+You are a professional medical editor. The following is a histopathological description of normal mucosa (NOR) within the immune microenvironment of gastric cancer. 
+Please generate a highly condensed professional summary (within 3–5 sentences), contrasting preserved mucosal architecture with surrounding pathological changes, and noting cellular uniformity or glandular preservation. 
+Maintain a concise, accurate, and academic presentation.
+
+STR:
+You are a professional medical editor. The following is a histopathological description of stroma (STR) within the immune microenvironment of gastric cancer. 
+Please generate a highly condensed professional summary (within 3–5 sentences), highlighting fibrotic components, desmoplasia, cellularity, and tumor-stroma interaction. 
+Ensure the description remains focused, medically informative, and academically styled.
+
+TUM:
+You are a professional medical editor. The following is a histopathological description of tumor epithelium (TUM) within the immune microenvironment of gastric cancer. 
+Please generate a highly condensed professional summary (within 3–5 sentences), emphasizing critical pathological features (e.g., epithelial atypia, glandular disruption, nuclear abnormalities, stromal interaction). 
+Avoid redundancy and preserve academic tone and medical accuracy throughout.
+
+

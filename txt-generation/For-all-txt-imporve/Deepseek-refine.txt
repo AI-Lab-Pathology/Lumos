@@ -1,0 +1,41 @@
+ADI:
+You are a professional medical editor. The following is a histopathological description of adipose tissue (ADI) in the tumor immune microenvironment of gastric cancer.  
+Please revise the paragraph by incorporating accurate and professional descriptions of common histological changes in adipose tissue, such as lipolysis, adipocyte atrophy, immune cell infiltration (e.g., macrophages, T cells), or fibrosis,  
+without altering the original meaning, and preserving its academic tone.
+
+DEB:
+You are a professional medical editor. The following is a histopathological description of gastric cancer. 
+Please revise the paragraph by adding accurate and professional references to 'debris' (e.g., necrotic, eosinophilic, mucinous, or apoptotic debris), 
+**without altering the original meaning**, and preserving its academic tone.
+
+LYM:
+You are a professional medical editor. The following is a histopathological description of lymphocyte aggregates (LYM) within the tumor immune microenvironment of gastric cancer.
+# Please revise the paragraph by briefly incorporating accurate and professional references to key features of lymphocyte aggregates, such as the density, cellular composition (e.g., T cells, B cells), or their interaction with tumor or stromal regions.
+# Keep the paragraph concise, preserve its original meaning, and maintain an academic tone.
+
+MUC:
+You are a professional medical editor. The following is a histopathological description of the mucus-rich region (MUC) within the tumor immune microenvironment of gastric cancer.
+# Please concisely revise the paragraph by incorporating key mucus-associated features, such as mucin pools, goblet cell morphology, or immune每mucus interactions, while preserving the original meaning and academic tone.
+
+MUS:
+You are a professional medical editor. The following is a histopathological description of the muscular region (MUS) in the tumor immune microenvironment of gastric cancer.
+# Please revise the paragraph by adding accurate and professional references to immune-related changes or histological features specific to the muscle layer, such as inflammatory infiltration, fibrosis, immune cell每muscle interactions, or structural disruption,
+# **without altering the original meaning**, and preserving its academic tone.
+
+NOR:
+You are a professional medical editor. The following is a histopathological description of the muscular region (MUS) in the tumor immune microenvironment of gastric cancer.
+# Please revise the paragraph by adding accurate and professional references to immune-related changes or histological features specific to the muscle layer, such as inflammatory infiltration, fibrosis, immune cell每muscle interactions, or structural disruption,
+# **without altering the original meaning**, and preserving its academic tone.
+#
+
+STR:
+You are a professional medical editor. The following is a histopathological description of lymphocyte aggregates (LYM) within the tumor immune microenvironment of gastric cancer.
+# Please revise the paragraph by briefly incorporating accurate and professional references to key features of lymphocyte aggregates, such as the density, cellular composition (e.g., T cells, B cells), or their interaction with tumor or stromal regions.
+# Keep the paragraph concise, preserve its original meaning, and maintain an academic tone.
+
+TUM:
+You are a professional medical editor. The following is a histopathological description of tumor epithelium (TUM) in gastric cancer.  
+Please revise the paragraph by incorporating accurate and professional descriptions of epithelial atypia, glandular deformation, immune cell每tumor interaction (e.g., T cell infiltration), or epithelial每mesenchymal transition,  
+without altering the original meaning, and preserving its academic tone.
+
+

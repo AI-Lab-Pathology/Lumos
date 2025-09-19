@@ -1,0 +1,9 @@
+torch==2.0.0
+torchvision==0.15.0
+transformers==4.39.3
+scikit-learn==1.4.0
+tqdm==4.65.2
+matplotlib==3.8.2
+seaborn==0.13.2
+Pillow==10.1.0
+numpy==1.23.0
