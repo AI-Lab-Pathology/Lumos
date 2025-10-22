@@ -25,16 +25,17 @@
 
 ## Highlights
 - **Two modules**:
-  - **`Classification/`** — pathology image classification (training / evaluation / batch inference).
   - **`txt-generation/`** — clinical/text generation pipeline: **original draft** → **refinement** (polishing).
+  - **`Classification/`** — pathology image classification (training / evaluation / batch inference).
+  
 
 
 ## Modules
 
 > This repository **currently includes two modules**. We will expand the modular design as the project evolves.
-
-- **`Classification/`** — pathology image classification (training / evaluation / batch inference).
 - **`txt-generation/`** — clinical/text generation pipeline: **original draft** → **refinement** (polishing).
+- **`Classification/`** — pathology image classification (training / evaluation / batch inference).
+
 
 
 
@@ -112,9 +113,8 @@ BASE_VIS_DIR = "visualization_report"       # loss/acc curves, confusion matrix,
 ---
 
 ## To-Do
-
-* [ ] **Long-tail recognition**
 * [ ] **Subtype classification**
+* [ ] **Long-tail recognition**
 * [ ] **Grad-CAM visualization**
   CAM/Grad-CAM(++) for ViT features and fused representations; export per-sample overlays.
 * [ ] **Immunotherapy-related prediction**
